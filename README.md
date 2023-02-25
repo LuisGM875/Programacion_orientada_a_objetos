@@ -4,3 +4,5 @@ Garduño Martínez Luis Angel, 2223IS, Ingenieria en Software, Programación Ori
 Figuras examen es interfaz grafica
 
 Examen codigo java sin interfaz grafica
+
+Nota: En la interfaz todos los datos deberan ser rellenados
